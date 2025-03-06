@@ -4,7 +4,7 @@ This is a simple app that fetches user information from JSONPlaceholder API.
 
 ## Features
 
-- **Data from API**: Fetching user details from JSONPlaceholderAPI using async/await functions.
+- **Data from API**: Fetching user details from JSONPlaceholder API using async/await functions.
 - **Loading state & error handling**: Handling fetch requests with try/catch blocks for error management.
 - **Dynamic UI updates**: Updating the HTML document dynamically upon each user data request.
 - **TypeScript**: Using TypeScript for type safety and better maintainability.
