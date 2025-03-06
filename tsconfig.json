@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es6",        // Трансформировать в ES5 для совместимости
+    "module": "esnext",     // Используем ES-модули
+    "strict": true,         // Включаем строгую типизацию
+    "esModuleInterop": true, // Для совместимости с модулями CommonJS
+    "skipLibCheck": true    // Пропустить проверку типов в библиотеках
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
