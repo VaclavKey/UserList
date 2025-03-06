@@ -24,7 +24,10 @@ This is a simple app that fetches user information from JSONPlaceholder API.
 4. Build the project:
    ```bash
    npm run build
-
+5. Open `index.html` file in your browser:
+   ```bash
+   start index.html
+   
 ## Usage
 - **Load Users**: Click the "Load Users" button to fetch and display the list of users.
 - **View User Details**: Click on any user in the list to view their detailed information below the list.
